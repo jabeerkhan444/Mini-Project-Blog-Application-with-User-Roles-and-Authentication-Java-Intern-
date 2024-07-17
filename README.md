@@ -80,6 +80,9 @@ Open your web browser and navigate to http://localhost:8080/Blog.
   ![Screenshot 2024-07-17 205818](https://github.com/user-attachments/assets/48d018eb-72c6-44c3-9d0f-6231174a1893)
 - Update Post
   ![Screenshot 2024-07-17 211434](https://github.com/user-attachments/assets/1527e8e1-d42c-4b21-8bf3-b803d07d5861)
+- Search
+  ![image](https://github.com/user-attachments/assets/bf1f2f75-d144-4edb-a292-aa7db3a30ee6)
+
 
 
 
