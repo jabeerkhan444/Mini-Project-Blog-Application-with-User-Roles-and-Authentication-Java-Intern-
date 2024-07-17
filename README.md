@@ -2,8 +2,8 @@
 
 The Blog Application is a dynamic web project designed to manage and display blog posts. It includes features such as user authentication, post creation, post viewing, and search functionality. The application is built using Java Servlets, JSP, and a MySQL database for data storage.
 
-Features
-User Authentication: Allows users to register and log in.
+## Features
+- User Authentication: Allows users to register and log in.
 Admin Dashboard: Admin users can create and manage posts.
 Post Display: Posts are displayed in a grid format with images and text.
 Search Functionality: Users can search posts by title or content.
@@ -31,7 +31,8 @@ Create a MySQL database named blog_db.
 Run the following SQL script to create the necessary tables:
 
 sql
-Copy code </br>
+Copy code
+</br>
 CREATE TABLE users ( </br>
     id INT AUTO_INCREMENT PRIMARY KEY, </br>
     name VARCHAR(100) NOT NULL, </br>
