@@ -78,10 +78,17 @@ Open your web browser and navigate to http://localhost:8080/Blog.
   ![Screenshot 2024-07-17 195404](https://github.com/user-attachments/assets/20973e86-505c-4d4e-8d1c-daec28070b24)
 - Login As Admin
   ![Screenshot 2024-07-17 205818](https://github.com/user-attachments/assets/48d018eb-72c6-44c3-9d0f-6231174a1893)
+- Create Post
+  ![image](https://github.com/user-attachments/assets/4497820c-4c92-4c5f-9099-7e7d6cff9dac)
 - Update Post
   ![Screenshot 2024-07-17 211434](https://github.com/user-attachments/assets/1527e8e1-d42c-4b21-8bf3-b803d07d5861)
+- Delete Post
+  ![Screenshot 2024-07-17 214743](https://github.com/user-attachments/assets/e3b84f05-50de-481b-a61c-50355d296050)
+    Above Post was deleted
+  ![image](https://github.com/user-attachments/assets/d762a797-4844-4573-abd0-055ba8368477)
 - Search
-  ![image](https://github.com/user-attachments/assets/bf1f2f75-d144-4edb-a292-aa7db3a30ee6)
+  ![Screenshot 2024-07-17 214228](https://github.com/user-attachments/assets/0ccd3745-f880-48e8-aa93-6ee9c1bd77f4)
+
 
 
 
