@@ -31,7 +31,7 @@ Create a MySQL database named blog_db.
 Run the following SQL script to create the necessary tables:
 
 sql
-Copy code
+Copy code </br>
 CREATE TABLE users ( </br>
     id INT AUTO_INCREMENT PRIMARY KEY, </br>
     name VARCHAR(100) NOT NULL, </br>
@@ -41,14 +41,13 @@ CREATE TABLE users ( </br>
 );
 
 
-CREATE TABLE posts (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    title VARCHAR(100) NOT NULL,
-    content TEXT NOT NULL,
-    imagePath VARCHAR(255),
-    userId INT,
-    FOREIGN KEY (userId) REFERENCES users(id)
+CREATE TABLE posts ( </br>
+    id INT AUTO_INCREMENT PRIMARY KEY, </br>
+    title VARCHAR(255) NOT NULL, </br>
+    content TEXT NOT NULL, </br>
+    fileName VARCHAR(255)</br>
 );
+
 Update Database Configuration:
 
 Open src/com/jdbc/DatabaseConnection.java and update the database URL, username, and password.
