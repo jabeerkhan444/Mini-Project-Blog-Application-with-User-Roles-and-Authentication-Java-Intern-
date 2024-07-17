@@ -24,15 +24,12 @@ Clone the Repository:
 bash
 Copy code
 git clone https://github.com/your-username/blog-application.git
-Configure Database:
+## Configure Database:
 
-Create a MySQL database named blog_db.
+- Create a MySQL database named blog.
 
-Run the following SQL script to create the necessary tables:
+- Run the following SQL script to create the necessary tables:
 
-sql
-Copy code
-</br>
 CREATE TABLE users ( </br>
     id INT AUTO_INCREMENT PRIMARY KEY, </br>
     name VARCHAR(100) NOT NULL, </br>
@@ -49,28 +46,28 @@ CREATE TABLE posts ( </br>
     fileName VARCHAR(255)</br>
 );
 
-Update Database Configuration:
+## Update Database Configuration:
 
 Open src/com/jdbc/DatabaseConnection.java and update the database URL, username, and password.
-Deploy on Tomcat:
+## Deploy on Tomcat:
 
 Build the project using your IDE.
 Deploy the war file to the Apache Tomcat server.
-Access the Application:
+## Access the Application:
 
 Open your web browser and navigate to http://localhost:8080/Blog.
-Usage
-Register and Log In:
+## Usage
+1. Register and Log In:
 
-Register as a new user and log in to access the admin dashboard.
-Create Post:
+- Register as a new user and log in to access the admin dashboard.
+2. Create Post:
 
-As an admin, create new posts with title, content, and an optional image.
-View Posts:
+- As an admin, create new posts with title, content, and an optional image.
+3. View Posts:
 
-All posts are displayed in a grid format on the main page.
-Click on a post to view more details.
-Search Posts:
+- All posts are displayed in a grid format on the main page.
+- Click on a post to view more details.
+4. Search Posts:
 
-Use the search bar to find posts by title or content.
-Screenshots
+- Use the search bar to find posts by title or content.
+## Screenshots
