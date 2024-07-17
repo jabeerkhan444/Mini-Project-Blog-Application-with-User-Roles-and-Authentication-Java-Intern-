@@ -66,3 +66,10 @@ Open your web browser and navigate to http://localhost:8080/Blog.
 
 - Use the search bar to find posts by title or content.
 ## Screenshots
+- Home Page
+  ![image](https://github.com/user-attachments/assets/5a133d46-e872-4239-b84c-1b3a05cc6e07)
+- Register
+  As Viewer
+  ![Screenshot 2024-07-17 195607](https://github.com/user-attachments/assets/8b36c8e6-d025-4465-abf2-eae123c8bbb3)
+
+
