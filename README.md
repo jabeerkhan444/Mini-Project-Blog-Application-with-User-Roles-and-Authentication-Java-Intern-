@@ -68,8 +68,16 @@ Open your web browser and navigate to http://localhost:8080/Blog.
 ## Screenshots
 - Home Page
   ![image](https://github.com/user-attachments/assets/5a133d46-e872-4239-b84c-1b3a05cc6e07)
-- Register
-  As Viewer
+- Register As Viewer
   ![Screenshot 2024-07-17 195607](https://github.com/user-attachments/assets/8b36c8e6-d025-4465-abf2-eae123c8bbb3)
+- Register As Admin
+  ![Screenshot 2024-07-17 195624](https://github.com/user-attachments/assets/706af526-db7e-404e-a9d5-e30331663ae3)
+- Login As Viewer
+  ![Screenshot 2024-07-17 195322](https://github.com/user-attachments/assets/9316e7dd-e886-4ad8-83bc-95d7001e01b6)
+- Post in new tab
+  ![Screenshot 2024-07-17 195404](https://github.com/user-attachments/assets/20973e86-505c-4d4e-8d1c-daec28070b24)
+
+
+
 
 
