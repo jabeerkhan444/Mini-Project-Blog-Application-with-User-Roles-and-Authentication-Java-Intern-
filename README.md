@@ -4,26 +4,21 @@ The Blog Application is a dynamic web project designed to manage and display blo
 
 ## Features
 - User Authentication: Allows users to register and log in.
-Admin Dashboard: Admin users can create and manage posts.
-Post Display: Posts are displayed in a grid format with images and text.
-Search Functionality: Users can search posts by title or content.
-Responsive Design: Ensures the application is accessible on various devices.
-Technologies Used
-Backend: Java Servlets, JSP
-Frontend: HTML, CSS, JSP
-Database: MySQL
-Libraries: JSTL
-Server: Apache Tomcat
-Project Structure
-src/com/controllers: Contains the servlet classes for handling requests.
-src/com/model: Contains the Post model class.
-webapp: Contains the JSP files and static assets (CSS, images).
-Setup and Installation
-Clone the Repository:
+- Admin Dashboard: Admin users can create and manage posts.
+- Post Display: Posts are displayed in a grid format with images and text.
+- Search Functionality: Users can search posts by title or content.
+- Responsive Design: Ensures the application is accessible on various devices.
+## Technologies Used
+- Backend: Java Servlets, JSP
+- Frontend: HTML, CSS, JSP
+- Database: MySQL
+- Libraries: JSTL
+- Server: Apache Tomcat
+## Project Structure
+- src/com/controllers: Contains the servlet classes for handling requests.
+- src/com/model: Contains the Post model class.
+- webapp: Contains the JSP files and static assets (CSS, images).
 
-bash
-Copy code
-git clone https://github.com/your-username/blog-application.git
 ## Configure Database:
 
 - Create a MySQL database named blog.
